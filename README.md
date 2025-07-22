@@ -105,15 +105,7 @@ Open the `notebook/eda_visualization.ipynb` or review `results/plots/`.
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-*This README template provides a professional summary and practical guidance for analysts and engineers to use and extend a sales forecasting pipeline based on machine learning and time series analysis best practices found in modern data science projects[1][2][3].*
 
-[1] https://github.com/rafamedin/Predictive-Analytics-for-Sales
-[2] https://github.com/gopiashokan/Retail-Sales-Analysis-and-Forecast-using-Machine-Learning
-[3] https://github.com/SaraFedlu/Sales-Forecasting-Pipeline
-[4] https://github.com/nandkumarcoder/Predictive-Analytics-for-Sales-Forecasting.git
-[5] https://github.com/topics/sales-forecasting
-[6] https://github.com/shridhar1504/Sales-Forecasting-Datascience-Project
-[7] https://github.com/topics/sales-prediction
 [8] https://github.com/Moiz101-ch/sales-analysis-forecasting
 [9] https://www.linkedin.com/posts/pranayakd28_github-pranayakdsales-forecasting-using-time-series-analysis-activity-7260312021957500928-BVAe
 [10] https://github.com/lijesh010/SuperstoreSalesAnalysisandForecasting
