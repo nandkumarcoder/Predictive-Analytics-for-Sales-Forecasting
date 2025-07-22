@@ -4,18 +4,7 @@
 
 This project provides a complete workflow for predicting future sales using machine learning techniques. The repository is designed to help analysts and businesses harness historical sales data, perform rigorous analyses, and build robust models for forecasting, supporting smarter inventory, marketing, and resource planning.
 
-## Project Structure
 
-```
-Predictive-Analytics-for-Sales-Forecasting/
-├── data/               # Raw and processed datasets
-├── notebooks/          # Jupyter notebooks for EDA, modeling, visualization
-├── scripts/            # Python scripts for feature engineering, training, evaluation
-├── models/             # Saved trained models
-├── results/            # Output, plots, and performance metrics
-├── requirements.txt    # Python dependencies
-└── README.md           # Project documentation (this file)
-```
 
 ## Key Features
 
