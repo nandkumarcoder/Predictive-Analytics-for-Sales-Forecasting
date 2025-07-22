@@ -95,9 +95,3 @@ Open the `notebook/eda_visualization.ipynb` or review `results/plots/`.
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-[8] https://github.com/Moiz101-ch/sales-analysis-forecasting
-[9] https://www.linkedin.com/posts/pranayakd28_github-pranayakdsales-forecasting-using-time-series-analysis-activity-7260312021957500928-BVAe
-[10] https://github.com/lijesh010/SuperstoreSalesAnalysisandForecasting
-[11] https://github.com/AjNavneet/BigMart-Sales-Predictive-Analytics
-[12] https://www.restack.io/p/predictive-modeling-answer-basics-github-cat-ai
-[13] https://github.com/bsdr18/Predictive-Analytics-for-Sales-and-Marketing
