@@ -35,12 +35,12 @@ pip install -r requirements.txt
 
 ### 3. Prepare Data
 
-- Place your raw sales data (CSV) in the `data/` directory.
+- Place your raw sales data (CSV) in the directory.
 - Ensure columns like `date`, `sales`, `store_id`, `product_id`, `promotion`, etc., exist or are created.
 
 ### 4. Run Analysis & Modeling
 
-Explore and preprocess data in the Jupyter notebooks inside `notebooks/`. For model training and testing, run the scripts in the `scripts/` directory.
+Explore and preprocess data in the Jupyter notebooks inside . For model training and testing, run the scripts in the `scripts/` directory.
 
 Example:
 
@@ -66,29 +66,6 @@ python scripts/train_model.py
 | Tuning/Evaluation   | Cross-validation, grid search, reporting RMSE, MAE, R².                      |
 | Forecasting         | Predict future sales and visualize with confidence intervals.                 |
 
-## Usage Example
-
-**Training the model:**
-
-```bash
-python scripts/train_model.py --data data/sales.csv --out models/sales_model.pkl
-```
-
-**Making a prediction:**
-
-```bash
-python scripts/predict.py --model models/sales_model.pkl --future_data data/future.csv
-```
-
-**Visualize results:**
-
-Open the `notebook/eda_visualization.ipynb` or review `results/plots/`.
-
-## Extending the Project
-
-- Integrate more advanced deep learning (e.g., LSTM/GRU for time series).
-- Add dashboards for real-time result visualization.
-- Incorporate external data sources for enhanced accuracy.
 
 ## License
 
