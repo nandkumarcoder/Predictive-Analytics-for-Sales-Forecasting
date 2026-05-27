@@ -126,7 +126,7 @@ RandomForestRegressor(
 
 ## 🔮 Future Improvements
 
-* **Christmas Sales Adjustment:** Implement the post-processing adjustments mentioned in the notebook observations. Because Christmas week has varying pre-holiday shopping days depending on the day of the week it falls on (e.g., 0 pre-holiday days in 2010 vs. 3 pre-holiday days in 2012), applying an analytical scale factor to predicted values for Christmas week could further decrease evaluation error.
+* **Christmas Sales Adjustment:** Implement the post-processing adjustments mentioned in the notebook observations. Because Christmas week has varying pre-holiday shopping days depending on the day of the week it falls on (e.g., 0 pre-holiday days in 2022 vs. 3 pre-holiday days in 2023), applying an analytical scale factor to predicted values for Christmas week could further decrease evaluation error.
 * **Ensemble Modeling:** Stack the tuned Random Forest Regressor with XGBoost, LightGBM, and ARIMA/SARIMAX models to exploit both tabular features and sequential time-series patterns.
 
 ---
